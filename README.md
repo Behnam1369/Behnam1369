@@ -5,7 +5,7 @@ const me = {
     lname: "Aghaali",
     pronouns: ["He", "Him"],
     age: 31,
-    roles: ["Full-stack developer", "Husband", "Dad"]
+    roles: ["Full-stack developer", "Husband", "Dad"],
     interests: ["coding", "football", "finance, accounting & management"],
     technologies: {
         frontEnd: {
