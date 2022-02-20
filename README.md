@@ -13,11 +13,14 @@ const me = {
 };
 ```
 
-<div align = "left">
+<div align="center">
   
 ![Parth's Github Status](https://github-readme-stats.vercel.app/api?username=Behnam1369&show_icons=true&theme=midnight-purple)
   
 </div>
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/Behnam1369/count.svg" />
+</p>
 
 
 What I work with: 
