@@ -30,6 +30,7 @@ What I work with:
 ![sass](http://img.shields.io/badge/-SCSS-3776AB?style=flat&logo=sass&logoColor=white&color=24003f&labelColor=9100ff)
 ![bootstrap](http://img.shields.io/badge/-Bootstrap-3776AB?style=flat&logo=bootstrap&logoColor=white&color=24003f&labelColor=9100ff)
 ![react](http://img.shields.io/badge/-React.js-3776AB?style=flat&logo=react&logoColor=white&color=24003f&labelColor=9100ff)
+![redux](http://img.shields.io/badge/-Redux-3776AB?style=flat&logo=redux&logoColor=white&color=24003f&labelColor=9100ff)
 ![jquery](http://img.shields.io/badge/-JQuery-3776AB?style=flat&logo=jquery&logoColor=white&color=24003f&labelColor=9100ff)
 ![json](http://img.shields.io/badge/-JSON-3776AB?style=flat&logo=json&logoColor=white&color=24003f&labelColor=9100ff)
 
