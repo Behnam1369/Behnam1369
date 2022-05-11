@@ -34,6 +34,7 @@ What I work with:
 ![json](http://img.shields.io/badge/-JSON-3776AB?style=flat&logo=json&logoColor=white&color=24003f&labelColor=9100ff)
 
 ![SQL Server](http://img.shields.io/badge/-SQL_Server-3776AB?style=flat&logo=microsoftsqlserver&logoColor=white&color=24003f&labelColor=9100ff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-3776AB?style=flat&logo=PostgreSQL&logoColor=white&color=24003f&labelColor=9100ff)
 ![ruby](http://img.shields.io/badge/-Ruby-3776AB?style=flat&logo=ruby&logoColor=white&color=24003f&labelColor=9100ff)
 ![rubyonrails](http://img.shields.io/badge/-Ruby_on_Rails-3776AB?style=flat&logo=rubyonrails&logoColor=white&color=24003f&labelColor=9100ff)
 ![csharp](http://img.shields.io/badge/-C_Sharp-3776AB?style=flat&logo=csharp&logoColor=white&color=24003f&labelColor=9100ff)
