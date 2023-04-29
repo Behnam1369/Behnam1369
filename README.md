@@ -5,8 +5,8 @@ const me = {
     fname: "Behnam",
     lname: "Aghaali",
     pronouns: ["He", "Him"],
-    age: 31,
-    roles: ["Full-stack developer", "Husband"],
+    age: 33,
+    roles: ["Full-stack developer", "Husband", "dad"],
     interests: ["coding", "football", "finance, accounting & management"],
     openToNewOfferes: true, 
     characteristics: ["hard working", "fast learner", "motivated"]
